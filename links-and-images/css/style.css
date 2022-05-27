@@ -1,0 +1,13 @@
+a {
+    color: green;
+    font-size: 200%;
+}
+
+img {
+    border: 10px orange dotted;
+    border-radius: 50px;
+}
+
+h1 {
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
